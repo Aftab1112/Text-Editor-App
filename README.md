@@ -28,12 +28,12 @@ Discover a React-powered text editor with features like converting text case, co
 
 ## Demo
 
-Please click the link below to experience a demo.
+* Please click the link below to experience a demo.
 
-[Text Utils](https://aftab1112.github.io/Text-Editor-App/)
+* [Text Utils](https://aftab1112.github.io/Text-Editor-App/)
 
 ---
 
-* Author : Aftab Reshamwale
+*Author* : **Aftab Reshamwale**
 
-    Please feel free to suggest any improvements for my project.
+ Please feel free to suggest any improvements for my project.
